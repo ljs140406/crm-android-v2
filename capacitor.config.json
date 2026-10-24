@@ -1,0 +1,17 @@
+{
+  "appId": "cn.ljs140406.crm2",
+  "appName": "重构后CRM",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
